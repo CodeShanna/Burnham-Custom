@@ -1,0 +1,99 @@
+.style-one   {
+   	background:  #2b2b28; 
+    font-weight: bold;
+    font-size: 40px;
+}
+.company-name-one {
+    font-weight: bold;
+    font-size: 40px;
+    color:#ebebe3; 
+}
+.dropdown-one {
+    color: #4a4a48; 
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.contact-one  {
+    color:#C19898;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.style-two   {
+   	font-weight: bold;
+    font-size: 40px;
+    background:  #f3bc77; 
+    font-size: large;
+}
+.company-name-two {
+    color:#402a23;
+    font-weight: bold;
+    font-size: 40px;
+}
+.dropdown-two {
+    color:  #a55233;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.contact-two {
+    color:#402a23;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.style-three   {
+   	font-weight: bold;
+    font-size: 40px;
+    background: #543d46;
+    font-size: large;
+}
+.company-name-three {
+    color:#5da7ae;
+    font-weight: bold;
+    font-size: 40px;
+}
+.dropdown-three {
+    color: #292830;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.contact-three {
+    color: #ffebbc; 
+    font-weight: bold;
+    font-size: 40px;
+}
+.style-four   {
+   	font-weight: bold;
+    font-size: 40px;
+    background:#FBF9F6;
+    font-size: large;
+}
+.company-name-four {
+    color:#404040;
+    font-weight: bold;
+    font-size: 40px;
+}
+.dropdown-four {
+    color: #62544B;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.contact-four {
+    color: #EBE9E8;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.note {
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+}
+.link   {
+    font-size: 20px;
+    color: black;
+}
